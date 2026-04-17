@@ -12,6 +12,6 @@
 ![](https://streak-stats.demolab.com?user=Malaika944&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Malaika944&layout=compact&theme=dark&hide_border=false&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malaika944&layout=compact&langs_count=2)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
