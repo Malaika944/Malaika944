@@ -21,7 +21,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-Data%20Version%20Control-945DD6?style=for-the-badge)
+![DVC](https://img.shields.io/badge/dvc-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
